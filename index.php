@@ -209,7 +209,7 @@
         $numero = 0;
     ?>
 
-    <!-- No hay version alternativa del do-while -->
+    <!-- No hay version alternativa del do-while  -->
     <br />
 
     <?php
